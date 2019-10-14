@@ -1,6 +1,7 @@
 # bootstrap-hidden
 BootStrap 不同隐藏方式
 使用 Bootstrap 4 顯示/隱藏 HTML 元素
+https://poychang.github.io/visible-and-hidden-in-bootstrap-4/
 
 AUGUST 25TH, 2017
 Bootstrap 千呼萬喚來到了 v4 beta，裡面除了提供更好看的元件外，以提供了許多好用個工具，讓排版變得更輕鬆，這對 CSS 苦手的我，真是一大福音，但是使用的時候發現一個問題，前幾版都有的 visible 和 hidden 類別好像變得不容易用了…
